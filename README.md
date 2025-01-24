@@ -60,7 +60,7 @@ Features
 ### Retrieves a list of all motion events stored in the database.
 
     Response: JSON array of motion events, including timestamps and file paths.
-'''
+```python
 Motion_Detector_Project/
 │
 ├── motion_detection.py     # Motion detection and video recording script
@@ -71,4 +71,4 @@ Motion_Detector_Project/
 ├── .env                    # Environment variables (hidden)
 ├── .gitignore              # Git ignore file
 └── README.md               # Project documentation
-'''
+```
